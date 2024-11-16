@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/vendor.css'
 import './style.css';
 
-
 import {
   createBrowserRouter,
   RouterProvider,
@@ -39,9 +38,8 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-import './js/jquery-1.11.0.min.js';
+
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import './js/script.js'
 import App from "./App.jsx";
 
 
