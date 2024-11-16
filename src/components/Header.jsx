@@ -1,4 +1,4 @@
-import OffCanvasCarrinho from "./Offcanvascarrinho";
+import OffCanvasCarrinho from "./OffCanvasCarrinho";
 function Header() {
 
     return (
