@@ -51,7 +51,7 @@ const CarouselMarcas = () => {
                   <Row className="g-0 d-flex align-items-center">
                     <Col xs={4} className="d-flex justify-content-center">
                       <img
-                        src="/src/assets/images/product-thumb-13.jpg"
+                        src="https://themewagon.github.io/FoodMart/images/product-thumb-13.jpg"
                         className="img-fluid rounded"
                         alt="Card title"
                         style={{ objectFit: 'cover', height: '200px', width: '100%' }}
@@ -73,7 +73,7 @@ const CarouselMarcas = () => {
                   <Row className="g-0 d-flex align-items-center">
                     <Col xs={4} className="d-flex justify-content-center">
                       <img
-                        src="/src/assets/images/product-thumb-14.jpg"
+                        src="https://themewagon.github.io/FoodMart/images/product-thumb-14.jpg"
                         className="img-fluid rounded"
                         alt="Card title"
                         style={{ objectFit: 'cover', height: '200px', width: '100%' }}
@@ -95,7 +95,7 @@ const CarouselMarcas = () => {
                   <Row className="g-0 d-flex align-items-center">
                     <Col xs={4} className="d-flex justify-content-center">
                       <img
-                        src="/src/assets/images/product-thumb-11.jpg"
+                        src="https://themewagon.github.io/FoodMart/images/product-thumb-11.jpg"
                         className="img-fluid rounded"
                         alt="Card title"
                         style={{ objectFit: 'cover', height: '200px', width: '100%' }}
@@ -117,7 +117,7 @@ const CarouselMarcas = () => {
                   <Row className="g-0 d-flex align-items-center">
                     <Col xs={4} className="d-flex justify-content-center">
                       <img
-                        src="/src/assets/images/product-thumb-12.jpg"
+                        src="https://themewagon.github.io/FoodMart/images/product-thumb-12.jpg"
                         className="img-fluid rounded"
                         alt="Card title"
                         style={{ objectFit: 'cover', height: '200px', width: '100%' }}

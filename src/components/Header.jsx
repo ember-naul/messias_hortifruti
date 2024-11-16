@@ -29,7 +29,7 @@ function Header() {
                         <div className="col-sm-4 col-lg-3 text-center text-sm-start">
                             <div className="main-logo">
                                 <a href="/">
-                                    <img src="/src/assets/images/logo.png" style={{ width: 80 }} alt="logo" className="img-fluid" />
+                                    <img src="https://themewagon.github.io/FoodMart/images/logo.png" style={{ width: 80 }} alt="logo" className="img-fluid" />
                                 </a>
                             </div>
                         </div>

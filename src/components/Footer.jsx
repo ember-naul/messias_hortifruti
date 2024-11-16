@@ -7,7 +7,7 @@ function Footer(){
 
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <div className="footer-menu">
-                                <img style={{width: 280}} src="/src/assets/images/logo.png" alt="logo"/>
+                                <img style={{width: 280}} src="https://themewagon.github.io/FoodMart/images/logo.png" alt="logo"/>
                                     <div className="social-links mt-5">
                                         <ul className="d-flex list-unstyled gap-2">
                                             <li>

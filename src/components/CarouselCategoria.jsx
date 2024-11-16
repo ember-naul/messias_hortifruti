@@ -48,37 +48,37 @@ const CarouselCategoria = () => {
             >
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
                   <h3 className="category-title">Frutas & Vegetais</h3>
                 </a>
               </SwiperSlide>
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-bread-baguette.png" alt="Category Thumbnail" />
                   <h3 className="category-title">Pães e Doces</h3>
                 </a>
               </SwiperSlide>
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
                   <h3 className="category-title">Bebidas</h3>
                 </a>
               </SwiperSlide>
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
                   <h3 className="category-title">Garrafas de Vinho</h3>
                 </a>
               </SwiperSlide>
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-animal-products-drumsticks.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-animal-products-drumsticks.png" alt="Category Thumbnail" />
                   <h3 className="category-title">PetCare</h3>
                 </a>
               </SwiperSlide>
               <SwiperSlide>
                 <a href="#" className="nav-link category-item">
-                  <img src="/src/assets/images/icon-bread-herb-flour.png" alt="Category Thumbnail" />
+                  <img src="https://themewagon.github.io/FoodMart/images/icon-bread-herb-flour.png" alt="Category Thumbnail" />
                   <h3 className="category-title">Cereais</h3>
                 </a>
               </SwiperSlide>

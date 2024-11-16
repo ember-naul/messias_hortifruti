@@ -42,7 +42,7 @@ const CarouselBanner = () => {
                           </a>
                         </div>
                         <div className="img-wrapper col-md-5">
-                          <img src="/src/assets/images/product-thumb-1.png" className="img-fluid" alt="Product 1" />
+                          <img src="https://themewagon.github.io/FoodMart/images/product-thumb-1.png" className="img-fluid" alt="Product 1" />
                         </div>
                       </div>
                     </div>
@@ -59,7 +59,7 @@ const CarouselBanner = () => {
                           </a>
                         </div>
                         <div className="img-wrapper col-md-5">
-                          <img src="/src/assets/images/product-thumb-1.png" className="img-fluid" alt="Product 2" />
+                          <img src="https://themewagon.github.io/FoodMart/images/product-thumb-1.png" className="img-fluid" alt="Product 2" />
                         </div>
                       </div>
                     </div>
@@ -76,7 +76,7 @@ const CarouselBanner = () => {
                           </a>
                         </div>
                         <div className="img-wrapper col-md-5">
-                          <img src="/src/assets/images/product-thumb-2.png" className="img-fluid" alt="Product 3" />
+                          <img src="https://themewagon.github.io/FoodMart/images/product-thumb-2.png" className="img-fluid" alt="Product 3" />
                         </div>
                       </div>
                     </div>
@@ -98,7 +98,7 @@ const CarouselBanner = () => {
               <div
                 className="banner-ad bg-success-subtle block-2"
                 style={{
-                  backgroundImage: "url('/src/assets/images/ad-image-1.png')",
+                  backgroundImage: "url('https://themewagon.github.io/FoodMart/images/ad-image-1.png')",
                   backgroundPosition: 'right bottom',
                   backgroundRepeat: 'no-repeat',
                 }}
@@ -120,7 +120,7 @@ const CarouselBanner = () => {
               <div
                 className="banner-ad bg-danger block-3"
                 style={{
-                  backgroundImage: "url('/src/assets/images/ad-image-2.png')",
+                  backgroundImage: "url('https://themewagon.github.io/FoodMart/images/ad-image-2.png')",
                   backgroundPosition: 'right bottom',
                   backgroundRepeat: 'no-repeat',
                 }}
